@@ -3,7 +3,7 @@ import { View, Text } from "react-native";
 
 function Profile() {
   return (
-    <View>
+    <View className="flex items-center justify-center h-screen">
       <Text>Profile</Text>
     </View>
   );

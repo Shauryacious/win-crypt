@@ -3,7 +3,7 @@ import { View, Text } from "react-native";
 
 function Portfolio() {
   return (
-    <View>
+    <View className="flex items-center justify-center h-screen">
       <Text>Portfolio</Text>
     </View>
   );
